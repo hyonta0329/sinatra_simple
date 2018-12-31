@@ -4,7 +4,7 @@ div {
 }
 
 .container {
-	width: 300px;
+	width: 600px;
 	margin: 0 auto;
 }
 
@@ -23,8 +23,8 @@ div {
 }
 
 .imagesize {
-	max-width: 270px;
-	max-height: 600px;
+	max-width: 540px;
+	max-height: 1000px;
 }
 
 .submit{
@@ -32,8 +32,8 @@ div {
 }
 
 textarea {
-	width: 80px;
-	height: 10px;
+	width: 200px;
+	height: 100px;
 	padding: 0;
 }
 
